@@ -5,5 +5,6 @@ list_shopping = ("Milk", "Eggs", "Vegetables")
 
 print(f"mi nombre es {names} {last_name} y tengo {age} años de edad")
 
+print("mi nombre es "+ names + " "+ last_name +" y tengo " + str(age) +" años de edad")
 
 print(list_shopping)
